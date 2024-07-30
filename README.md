@@ -1,5 +1,5 @@
-## Dynamic Route
+## Nested Dynamic Route
 It can create by special folder name -> [folder_name]
 
 ### Example
-- /products/id ```display product detail by id by creating special folder name [productId]```
+- /products/1/reviews/1 ```display a review of a product by id by creating nested special folder name reviews/[reviewId]```
