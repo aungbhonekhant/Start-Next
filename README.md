@@ -1,7 +1,5 @@
-## Nested Route
-Create nested folder, is nested route
+## Dynamic Route
+It can create by special folder name -> [folder_name]
 
 ### Example
-- /blog
-- /blog/first
-- /blog/second
+- /products/id ```display product detail by id by creating special folder name [productId]```
